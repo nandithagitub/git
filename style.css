@@ -1,0 +1,34 @@
+body{
+text-align: center;
+background-image: linear-gradient(black,purple,violet,plum,pink);
+font-family: 'Cinzel Decorative', cursive;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+
+h3 {
+    color: white;
+    font-family: 'Palette Mosaic', cursive;
+}
+
+#test{
+    width: 250px;
+    height: 200px;
+}
+
+h4{
+    color:white;
+    background-color: grey;
+    line-height: 2;
+    border-radius: 50;
+}
+
+#copy_right_footer{
+line-height: 3;
+background-color: aqua;
+letter-spacing: 2;
+font-size: 20px;
+}
+
